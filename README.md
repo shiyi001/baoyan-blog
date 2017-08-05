@@ -1,1 +1,56 @@
-# kaoyan-blog
+这是2017年大三同学参加夏令营的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
+
+## 夏令营总结贴
+
+- @[奋斗的小鸟lcy](http://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](http://www.jianshu.com/p/9fe83bc6f679)
+
+## 学校相关
+
+##### 清华大学交叉学院
+
+##### 清华大学计算机学院
+
+##### 北大信科
+
+- @[Lee](http://www.cnblogs.com/QingHuan/)的[2017北京大学信息科学与技术学院夏令营总结](http://www.cnblogs.com/QingHuan/p/7196624.html)
+- @[fxx很棒棒哦](http://www.jianshu.com/u/52dcf548259d)的[记2017北大计算所夏令营经历](http://www.jianshu.com/p/7de6a949b08b)
+
+##### 北京大学交叉学院
+- @[shiyi001](http://www.jianshu.com/u/d130a6d54c7b)的[记2017北大叉院夏令营经历](http://www.jianshu.com/p/074ddd145097)
+- @[zjunzhao](http://www.jianshu.com/u/934b4b63dcd1)的[记2017北大叉院夏令营经历](http://www.jianshu.com/p/cde78a03e4c2)
+- @[MY_Devotion](http://www.jianshu.com/u/33d42b625eb8)的[记2017北大叉院夏令营经历](http://www.jianshu.com/p/e1b6b4421ca2)
+- @[MY_Devotion](http://www.jianshu.com/u/33d42b625eb8)的[计算机系保研夏令营机试攻略篇01——北大叉院机试](http://www.jianshu.com/p/1acfd9c966a1)
+- @[Erin明明如月](http://www.jianshu.com/u/d1aa43aef7c8)的[北大交叉学院大数据中心夏令营](http://www.jianshu.com/p/cf9daf795879)
+- @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
+- @[leran2098](http://www.jianshu.com/u/ed706a2c5d72)的[北大叉院数据科学夏令营](http://www.jianshu.com/p/79d337e33702)
+
+##### 上海交通大学计算机学院
+
+- @[冰封墨者](http://www.jianshu.com/u/1d4d76e5a62e)的[2017上海交大电院计算机自主招生经历](http://www.jianshu.com/p/718ad7128596)
+
+##### 北京航空航天大学计算机学院
+
+- @[EternalWang](http://www.jianshu.com/u/b271feb9cb4d)的[2017北航计算机学院夏令营经历](http://www.jianshu.com/p/6309431fce62)
+- @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
+
+##### 中科院自动化所
+
+##### 中科院计算所
+- @[027b6fdc57ec](http://www.jianshu.com/u/027b6fdc57ec)的[中科院计算所霸面经历](http://www.jianshu.com/p/0a3d8da8afc1)
+- @[Tinet_](http://www.jianshu.com/u/b0b4d10d1e51)的[计算所夏令营经历](http://www.jianshu.com/p/5910bf5c6c3b)
+
+##### 中科院软件所
+- @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.17-7.21中科院软件所夏令营](http://www.jianshu.com/p/a3e0c09b2402)
+
+##### 中科院信工所
+- @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.9-7.15中科院信工所第一批夏令营](http://www.jianshu.com/p/754a7f626784)
+- @[rebirthwyw](http://my.csdn.net/rebirthwyw)的[ [信工所六室面试经历](http://blog.csdn.net/rebirthwyw/article/details/76021822)](http://blog.csdn.net/rebirthwyw/article/details/76021822)
+
+##### 南京大学计算机
+- @[栗子栗子](http://liziyang96.com/)的[2017南京大学计算机开放日机试题解](http://liziyang96.com/2017/07/16/2017%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%94%BE%E6%97%A5%E6%9C%BA%E8%AF%95%E9%A2%98%E8%A7%A3/)
+
+##### 南开大学计算机
+
+
+
+感谢以上所有同学的无私分享~ 谢谢大家~
