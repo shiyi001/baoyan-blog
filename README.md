@@ -28,6 +28,10 @@
 
 - @[冰封墨者](http://www.jianshu.com/u/1d4d76e5a62e)的[2017上海交大电院计算机自主招生经历](http://www.jianshu.com/p/718ad7128596)
 
+##### 复旦大学计算机学院
+
+- @[RowitZou](http://www.eeban.com/home.php?mod=space&uid=1499503)的[复旦计算机夏令营保研记](http://www.eeban.com/forum.php?mod=viewthread&tid=12993&extra=page%3D1)
+
 ##### 北京航空航天大学计算机学院
 
 - @[EternalWang](http://www.jianshu.com/u/b271feb9cb4d)的[2017北航计算机学院夏令营经历](http://www.jianshu.com/p/6309431fce62)
@@ -44,7 +48,7 @@
 
 ##### 中科院信工所
 - @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.9-7.15中科院信工所第一批夏令营](http://www.jianshu.com/p/754a7f626784)
-- @[rebirthwyw](http://my.csdn.net/rebirthwyw)的[ [信工所六室面试经历](http://blog.csdn.net/rebirthwyw/article/details/76021822)](http://blog.csdn.net/rebirthwyw/article/details/76021822)
+- @[rebirthwyw](http://my.csdn.net/rebirthwyw)的[信工所六室面试经历](http://blog.csdn.net/rebirthwyw/article/details/76021822)
 
 ##### 南京大学计算机
 - @[栗子栗子](http://liziyang96.com/)的[2017南京大学计算机开放日机试题解](http://liziyang96.com/2017/07/16/2017%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%94%BE%E6%97%A5%E6%9C%BA%E8%AF%95%E9%A2%98%E8%A7%A3/)
