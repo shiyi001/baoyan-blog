@@ -17,7 +17,7 @@
 
 ##### 北京大学交叉学院
 - @[shiyi001](http://www.jianshu.com/u/d130a6d54c7b)的[记2017北大叉院夏令营经历](http://www.jianshu.com/p/074ddd145097)
-- @[zjunzhao](http://www.jianshu.com/u/934b4b63dcd1)的[记2017北大叉院夏令营经历](http://www.jianshu.com/p/cde78a03e4c2)
+- @[zjunzhao](http://www.jianshu.com/u/934b4b63dcd1)的[2017北京大学数据科学中心夏令营经历](http://www.jianshu.com/p/cde78a03e4c2)
 - @[MY_Devotion](http://www.jianshu.com/u/33d42b625eb8)的[记2017北大叉院夏令营经历](http://www.jianshu.com/p/e1b6b4421ca2)
 - @[MY_Devotion](http://www.jianshu.com/u/33d42b625eb8)的[计算机系保研夏令营机试攻略篇01——北大叉院机试](http://www.jianshu.com/p/1acfd9c966a1)
 - @[Erin明明如月](http://www.jianshu.com/u/d1aa43aef7c8)的[北大交叉学院大数据中心夏令营](http://www.jianshu.com/p/cf9daf795879)
