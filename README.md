@@ -45,6 +45,7 @@
 
 ##### 中科院软件所
 - @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.17-7.21中科院软件所夏令营](http://www.jianshu.com/p/a3e0c09b2402)
+- @[banpicai9259](http://my.csdn.net/banpicai9259)的[ 2017保研——软件所夏令营亲体验](http://blog.csdn.net/banpicai9259/article/details/77108171)
 
 ##### 中科院信工所
 - @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.9-7.15中科院信工所第一批夏令营](http://www.jianshu.com/p/754a7f626784)
