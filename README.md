@@ -3,6 +3,7 @@
 ## 夏令营总结贴
 
 - @[奋斗的小鸟lcy](http://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](http://www.jianshu.com/p/9fe83bc6f679)
+- @[西电王小熊](http://www.jianshu.com/u/94429f1c4f53)的[[读研]王小熊的推免面试经历](http://www.jianshu.com/p/d265069f2417)
 
 ## 学校相关
 
