@@ -24,10 +24,12 @@
 - @[Erin明明如月](http://www.jianshu.com/u/d1aa43aef7c8)的[北大交叉学院大数据中心夏令营](http://www.jianshu.com/p/cf9daf795879)
 - @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
 - @[leran2098](http://www.jianshu.com/u/ed706a2c5d72)的[北大叉院数据科学夏令营](http://www.jianshu.com/p/79d337e33702)
+- @[yingtaomj](http://www.jianshu.com/u/4039558da763)的[CS保研经验贴](http://www.jianshu.com/p/e9cb303a717e)
 
 ##### 上海交通大学计算机学院
 
 - @[冰封墨者](http://www.jianshu.com/u/1d4d76e5a62e)的[2017上海交大电院计算机自主招生经历](http://www.jianshu.com/p/718ad7128596)
+- @[yingtaomj](http://www.jianshu.com/u/4039558da763)的[CS保研经验贴](http://www.jianshu.com/p/e9cb303a717e)
 
 ##### 复旦大学计算机学院
 
