@@ -12,6 +12,7 @@
 
 ##### 清华大学计算机学院
 - @[马天猫](https://zhuanlan.zhihu.com/deeplearningcat)的[马天猫的CS保研经历](https://zhuanlan.zhihu.com/p/29819054)
+- 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
 
 ##### 北大信科
 
