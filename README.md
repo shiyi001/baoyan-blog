@@ -5,6 +5,7 @@
 - @[奋斗的小鸟lcy](http://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](http://www.jianshu.com/p/9fe83bc6f679)
 - @[西电王小熊](http://www.jianshu.com/u/94429f1c4f53)的[[读研]王小熊的推免面试经历](http://www.jianshu.com/p/d265069f2417)
 - @[WonderSeven](http://my.csdn.net/Touch_Thesky)的[个人保研经历以及经验分享](http://blog.csdn.net/touch_thesky/article/details/78126878)
+- @[sunrise的博客](http://blog.csdn.net/qq_25201379)的[保研经历-从信工所-国防科大-上交-最后确定复旦（信息安全专业）](http://blog.csdn.net/qq_25201379/article/details/78178697)
 
 ## 学校相关
 
@@ -37,6 +38,7 @@
 ##### 复旦大学计算机学院
 
 - @[RowitZou](http://www.eeban.com/home.php?mod=space&uid=1499503)的[复旦计算机夏令营保研记](http://www.eeban.com/forum.php?mod=viewthread&tid=12993&extra=page%3D1)
+- @[sunrise的博客](http://blog.csdn.net/qq_25201379)的[保研经历-从信工所-国防科大-上交-最后确定复旦（信息安全专业）](http://blog.csdn.net/qq_25201379/article/details/78178697)
 
 ##### 北京航空航天大学计算机学院
 
