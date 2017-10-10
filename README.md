@@ -47,6 +47,8 @@
 
 ##### 中科院自动化所
 
+-@[mallmeen](http://www.jianshu.com/u/c17bbd102bc1)的[自动化所9月推免面经](http://www.jianshu.com/p/475d8b14639c)
+
 ##### 中科院计算所
 - @[027b6fdc57ec](http://www.jianshu.com/u/027b6fdc57ec)的[中科院计算所霸面经历](http://www.jianshu.com/p/0a3d8da8afc1)
 - @[Tinet_](http://www.jianshu.com/u/b0b4d10d1e51)的[计算所夏令营经历](http://www.jianshu.com/p/5910bf5c6c3b)
