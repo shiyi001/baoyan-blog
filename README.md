@@ -6,6 +6,7 @@
 - @[西电王小熊](http://www.jianshu.com/u/94429f1c4f53)的[[读研]王小熊的推免面试经历](http://www.jianshu.com/p/d265069f2417)
 - @[WonderSeven](http://my.csdn.net/Touch_Thesky)的[个人保研经历以及经验分享](http://blog.csdn.net/touch_thesky/article/details/78126878)
 - @[sunrise的博客](http://blog.csdn.net/qq_25201379)的[保研经历-从信工所-国防科大-上交-最后确定复旦（信息安全专业）](http://blog.csdn.net/qq_25201379/article/details/78178697)
+- [本科四非保研到了北大信科学硕](https://www.zhihu.com/question/34582860/answer/245950683)
 
 ## 学校相关
 
