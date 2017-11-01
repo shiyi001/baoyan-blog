@@ -8,6 +8,8 @@
 - @[sunrise的博客](http://blog.csdn.net/qq_25201379)的[保研经历-从信工所-国防科大-上交-最后确定复旦（信息安全专业）](http://blog.csdn.net/qq_25201379/article/details/78178697)
 - [本科四非保研到了北大信科学硕](https://www.zhihu.com/question/34582860/answer/245950683)
 - [所有结局在努力面前都不成敬意](http://www.360doc.com/content/17/1007/20/27477386_693026687.shtml)
+- @[gtcer](http://www.360doc.com/userhome/27525068)的[2018届研究生招生暑期夏令营经历分享——guochengtao](http://www.360doc.com/content/17/1101/14/27525068_700005388.shtml)
+
 
 ## 学校相关
 
