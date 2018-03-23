@@ -67,7 +67,7 @@
 - @[rebirthwyw](http://www.jianshu.com/u/7a3d48c39bb7)的[信工所六室面试经历](http://www.jianshu.com/p/0cc697eb3d6d)
 
 ##### 南京大学计算机
-- @[栗子栗子](http://liziyang96.com/)的[2017南京大学计算机开放日机试题解](http://liziyang96.com/2017/07/16/2017%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%94%BE%E6%97%A5%E6%9C%BA%E8%AF%95%E9%A2%98%E8%A7%A3/)
+- @[栗子栗子](http://liziyang96.com/)的[2017南京大学计算机开放日机试题解](http://liziyang96.com/2017/07/16/Sol_PT_2017NJU/)
 
 ##### 南开大学软件学院
 - @[gtcer](http://www.360doc.com/userhome/27525068)的[2018届研究生招生暑期夏令营经历分享——guochengtao](http://www.360doc.com/content/17/1101/14/27525068_700005388.shtml)
