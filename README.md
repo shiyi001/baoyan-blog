@@ -1,6 +1,6 @@
-这是2017年大三同学参加夏令营的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
+这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 
-## 夏令营总结贴
+## 2017年夏令营总结贴
 
 - @[奋斗的小鸟lcy](http://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](http://www.jianshu.com/p/9fe83bc6f679)
 - @[西电王小熊](http://www.jianshu.com/u/94429f1c4f53)的[[读研]王小熊的推免面试经历](http://www.jianshu.com/p/d265069f2417)
@@ -10,13 +10,16 @@
 - [所有结局在努力面前都不成敬意](http://www.360doc.com/content/17/1007/20/27477386_693026687.shtml)
 - @[gtcer](http://www.360doc.com/userhome/27525068)的[2018届研究生招生暑期夏令营经历分享——guochengtao](http://www.360doc.com/content/17/1101/14/27525068_700005388.shtml)
 
+## 2018年夏令营总结贴
+
+ - @[aaa](http://xxx.yyy.zzz)的[bbb](http://xxx.yyy.zzz) (这是一个示例格式)
 
 ## 学校相关
 
 ##### 清华大学交叉学院
 
 ##### 清华大学计算机学院
-- @[马天猫](https://zhuanlan.zhihu.com/deeplearningcat)的[马天猫的CS保研经历](https://zhuanlan.zhihu.com/p/29819054)
+- @[马天猫](https://www.zhihu.com/people/ma-shao-nan-89/)的[马天猫的CS保研经历](http://www.voidcn.com/article/p-nmrtcllh-bph.html) (这是一个备份)
 - 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
 
 ##### 北大信科
@@ -52,7 +55,7 @@
 
 ##### 中科院自动化所
 
--@[mallmeen](http://www.jianshu.com/u/c17bbd102bc1)的[自动化所9月推免面经](http://www.jianshu.com/p/475d8b14639c)
+ - @[mallmeen](http://www.jianshu.com/u/c17bbd102bc1)的[自动化所9月推免面经](http://www.jianshu.com/p/475d8b14639c)
 
 ##### 中科院计算所
 - @[027b6fdc57ec](http://www.jianshu.com/u/027b6fdc57ec)的[中科院计算所霸面经历](http://www.jianshu.com/p/0a3d8da8afc1)
