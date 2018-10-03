@@ -13,16 +13,17 @@
 ## 2018年夏令营总结贴
 
  - @[aaa](http://xxx.yyy.zzz)的[bbb](http://xxx.yyy.zzz) (这是一个示例格式)
+ - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
 
 ## 学校相关
 
 ##### 清华大学交叉学院
 
-##### 清华大学计算机学院
+##### 清华大学计算机系
 - @[马天猫](https://www.zhihu.com/people/ma-shao-nan-89/)的[马天猫的CS保研经历](http://www.voidcn.com/article/p-nmrtcllh-bph.html) (这是一个备份)
 - 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
 
-##### 北大信科
+##### 北京大学信息科学技术学院
 
 - @[Lee](http://www.cnblogs.com/QingHuan/)的[2017北京大学信息科学与技术学院夏令营总结](http://www.cnblogs.com/QingHuan/p/7196624.html)
 - @[fxx很棒棒哦](http://www.jianshu.com/u/52dcf548259d)的[记2017北大计算所夏令营经历](http://www.jianshu.com/p/7de6a949b08b)
