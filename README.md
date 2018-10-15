@@ -20,7 +20,7 @@
  - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
  - @[TINA](https://www.zhihu.com/people/tina-67-56)的[2018保研心得体会](https://zhuanlan.zhihu.com/p/45818580)
  - @[孙笑川](https://weibo.com/currycode/home?wvr=5)的[低价值保研经验](https://blog.csdn.net/zongza/article/details/82807916) 
-
+ - @[基本法](https://cp-here.github.io/)的[保研呐就都不知道，自己就不可以预料](https://www.jianshu.com/p/2228d7464d99)
 ## 学校相关
 
 ##### 清华大学计算机系
