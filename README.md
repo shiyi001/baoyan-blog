@@ -59,6 +59,7 @@
 - @[EternalWang](http://www.jianshu.com/u/b271feb9cb4d)的[2017北航计算机学院夏令营经历](http://www.jianshu.com/p/6309431fce62)
 - @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
 - @[不会游泳的鱼鱼鱼](http://www.jianshu.com/u/36bda6ee1ecb)的[西电to北航 一路保研经验分享](http://www.jianshu.com/p/826b7f761e7d)
+- @[Trrific](https://trrific.me)的[双非to北航CSの坎坷保研路](https://trrific.me/2018/10/16/%E5%8F%8C%E9%9D%9Eto%E5%8C%97%E8%88%AACS%E3%81%AE%E5%9D%8E%E5%9D%B7%E4%BF%9D%E7%A0%94%E8%B7%AF/)
 
 ##### 中科院自动化所
 
