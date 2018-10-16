@@ -1,6 +1,7 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 
 ## 2016年夏令营总结贴
+
  - [南清北复交北航哈工大中科院华科保研记](https://www.jianshu.com/p/7640174a1556)
 
 ## 2017年夏令营总结贴
@@ -16,14 +17,16 @@
 
 ## 2018年夏令营总结贴
 
- - @[aaa](http://xxx.yyy.zzz)的[bbb](http://xxx.yyy.zzz) (这是一个示例格式)
  - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
  - @[TINA](https://www.zhihu.com/people/tina-67-56)的[2018保研心得体会](https://zhuanlan.zhihu.com/p/45818580)
  - @[孙笑川](https://weibo.com/currycode/home?wvr=5)的[低价值保研经验](https://blog.csdn.net/zongza/article/details/82807916) 
  - @[基本法](https://cp-here.github.io/)的[保研呐就都不知道，自己就不可以预料](https://www.jianshu.com/p/2228d7464d99)
+ - @[Smlight](https://github.com/Smlight)的[保研经历](https://smlight.github.io/blog/2018/10/12/block2/)
+ 
 ## 学校相关
 
 ##### 清华大学计算机系
+
 - @[马天猫](https://www.zhihu.com/people/ma-shao-nan-89/)的[马天猫的CS保研经历](http://www.voidcn.com/article/p-nmrtcllh-bph.html) (这是一个备份)
 - 杜鑫乐的[杜鑫乐：我的清华梦](http://mp.weixin.qq.com/s?srcid=0929yApBvkizkgYDzI4vrXfc&scene=22&mid=2247484472&sn=e0dd3de3f4ea596628989d5ad5807604&idx=1&__biz=MzIxMzM2MjM1Mw%3D%3D&chksm=97b6b7e6a0c13ef000050d61fc1c70a442d7675be3cb84bf9730a36cdcb3d71b50b8f7e95255&mpshare=1#rd)
 
@@ -66,21 +69,26 @@
  - @[mallmeen](http://www.jianshu.com/u/c17bbd102bc1)的[自动化所9月推免面经](http://www.jianshu.com/p/475d8b14639c)
 
 ##### 中科院计算所
+
 - @[027b6fdc57ec](http://www.jianshu.com/u/027b6fdc57ec)的[中科院计算所霸面经历](http://www.jianshu.com/p/0a3d8da8afc1)
 - @[Tinet_](http://www.jianshu.com/u/b0b4d10d1e51)的[计算所夏令营经历](http://www.jianshu.com/p/5910bf5c6c3b)
 
 ##### 中科院软件所
+
 - @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.17-7.21中科院软件所夏令营](http://www.jianshu.com/p/a3e0c09b2402)
 - @[banpicai9259](http://my.csdn.net/banpicai9259)的[ 2017保研——软件所夏令营亲体验](http://blog.csdn.net/banpicai9259/article/details/77108171)
 
 ##### 中科院信工所
+
 - @[呼啦啦葱](http://www.jianshu.com/u/a023877e864c)的[7.9-7.15中科院信工所第一批夏令营](http://www.jianshu.com/p/754a7f626784)
 - @[rebirthwyw](http://www.jianshu.com/u/7a3d48c39bb7)的[信工所六室面试经历](http://www.jianshu.com/p/0cc697eb3d6d)
 
 ##### 南京大学计算机系
+
 - @[栗子栗子](http://liziyang.space/)的[2017南京大学计算机开放日机试题解](http://liziyang.space/2017/07/16/CS_PT_2017NJU/)
 
 ##### 南开大学软件学院
+
 - @[gtcer](http://www.360doc.com/userhome/27525068)的[2018届研究生招生暑期夏令营经历分享——guochengtao](http://www.360doc.com/content/17/1101/14/27525068_700005388.shtml)
 
 
