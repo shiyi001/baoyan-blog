@@ -23,8 +23,9 @@
  - @[基本法](https://cp-here.github.io/)的[保研呐就都不知道，自己就不可以预料](https://www.jianshu.com/p/2228d7464d99)
  - @[Smlight](https://github.com/Smlight)的[保研经历](https://smlight.github.io/blog/2018/10/12/block2/)
  - @[mengwuyaaa](https://blog.csdn.net/mengwuyaaa)的[清华北大计算所自动化所计算机夏令营详细攻略](https://blog.csdn.net/mengwuyaaa/article/details/82918032)
- - @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/)
- 
+ - @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/) 
+ - @[lhw](https://www.zhihu.com/people/lhw-55/posts)211物联网工程保研中国科学技术大学nlp方向保研经历(https://zhuanlan.zhihu.com/p/43104955)
+
 ## 学校相关
 
 ##### 清华大学计算机系
