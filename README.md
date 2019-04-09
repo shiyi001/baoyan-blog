@@ -25,6 +25,7 @@
  - @[mengwuyaaa](https://blog.csdn.net/mengwuyaaa)的[清华北大计算所自动化所计算机夏令营详细攻略](https://blog.csdn.net/mengwuyaaa/article/details/82918032)
  - @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/) 
  - @[lhw](https://www.zhihu.com/people/lhw-55/posts)的[211物联网工程保研中国科学技术大学cs自然语言处理方向](https://zhuanlan.zhihu.com/p/60553247)
+ - @[菜得抠脚](https://github.com/taogelose)的[某菜在北航、中科院、南开的计算机视觉(CV)方向保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
 
 ## 学校相关
 
@@ -66,6 +67,7 @@
 - @[仲夏123](http://www.jianshu.com/u/bdda419e067d)的[记北大叉院，北航夏令营经历](http://www.jianshu.com/p/ce3c98acd5a7)
 - @[不会游泳的鱼鱼鱼](http://www.jianshu.com/u/36bda6ee1ecb)的[西电to北航 一路保研经验分享](http://www.jianshu.com/p/826b7f761e7d)
 - @[Trrific](https://trrific.me)的[双非to北航CSの坎坷保研路](https://trrific.me/2018/10/16/%E5%8F%8C%E9%9D%9Eto%E5%8C%97%E8%88%AACS%E3%81%AE%E5%9D%8E%E5%9D%B7%E4%BF%9D%E7%A0%94%E8%B7%AF/)
+ - @[菜得抠脚](https://github.com/taogelose)的[某菜混进北航做计算机视觉的保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
 
 ##### 中科院自动化所
 
