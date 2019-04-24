@@ -19,7 +19,7 @@
 
  - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
  - @[TINA](https://www.zhihu.com/people/tina-67-56)的[2018保研心得体会](https://zhuanlan.zhihu.com/p/45818580)
- - @[孙笑川](https://weibo.com/currycode)的[低价值保研经验](https://mp.weixin.qq.com/s?__biz=MzI4NjU0ODQ1Ng==&mid=2247484202&idx=1&sn=c7ee699b9c16acc835ed6846fefddbad&chksm=ebda0baddcad82bb4a6057e6152128d1c6ce2fb65ae691fef2d326848c7796f7846d28d0e84c&mpshare=1&scene=24&srcid=1018j2HgSbSR6Z0IRSXwEyXr&key=27c3ade39ac8acc2bbcec5c1a9eacb3539897e0a6f109f7ec1dc4f0d029619214d94b2e55a9cb44d048c2847f65c43b248af3b0bb3777654367fb9dc06d874e40159d48e7afb111dcee05130df65a7be&ascene=14&uin=MTkyNDgwMzYxMQ%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=fmk23ydXh%2BVBTafjiNtDgcV5umi2h0xN%2BlhRkoI%2BeSfRnA8WbGYC8Wuu0OSsuMTr) 
+ - @[孙笑川](https://weibo.com/currycode)的[低价值保研经验](https://mp.weixin.qq.com/s?__biz=MzI4NjU0ODQ1Ng==&mid=2247484202&idx=1&sn=c7ee699b9c16acc835ed6846fefddbad)
  - @[基本法](https://cp-here.github.io/)的[保研呐就都不知道，自己就不可以预料](https://www.jianshu.com/p/2228d7464d99)
  - @[Smlight](https://github.com/Smlight)的[保研经历](https://smlight.github.io/blog/2018/10/12/block2/)
  - @[mengwuyaaa](https://blog.csdn.net/mengwuyaaa)的[清华北大计算所自动化所计算机夏令营详细攻略](https://blog.csdn.net/mengwuyaaa/article/details/82918032)
