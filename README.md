@@ -29,7 +29,7 @@
 
 ## 2019夏令营总结贴
 
- - @[一岸流年](https://blog.csdn.net/qq_41997479/article/details/95599816)
+ - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
 
 ## 学校相关
 
@@ -40,7 +40,7 @@
 
 #### 清华大学网研院
 
- - @[一岸流年](https://blog.csdn.net/qq_41997479/article/details/101027420)
+ - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019年9月清华网研院预推免保研经验](https://blog.csdn.net/qq_41997479/article/details/101027420)
 
 #### 清华大学交叉学院
 
