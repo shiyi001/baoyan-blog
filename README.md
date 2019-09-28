@@ -1,20 +1,10 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 
-## 2016年夏令营总结贴
+## 2019夏令营总结贴
 
- - [南清北复交北航哈工大中科院华科保研记](https://www.jianshu.com/p/7640174a1556)
-
-## 2017年夏令营总结贴
-
-- @[奋斗的小鸟lcy](https://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](https://www.jianshu.com/p/9fe83bc6f679)
-- @[西电王小熊](https://www.jianshu.com/u/94429f1c4f53)的[[读研]王小熊的推免面试经历](https://www.jianshu.com/p/d265069f2417)
-- @[WonderSeven](http://my.csdn.net/Touch_Thesky)的[个人保研经历以及经验分享](http://blog.csdn.net/touch_thesky/article/details/78126878)
-- @[sunrise的博客](http://blog.csdn.net/qq_25201379)的[保研经历-从信工所-国防科大-上交-最后确定复旦（信息安全专业）](http://blog.csdn.net/qq_25201379/article/details/78178697)
-- [本科四非保研到了北大信科学硕](https://www.zhihu.com/question/34582860/answer/245950683)
-- [所有结局在努力面前都不成敬意](http://www.360doc.com/content/17/1007/20/27477386_693026687.shtml)
-- @[gtcer](http://www.360doc.com/userhome/27525068)的[2018届研究生招生暑期夏令营经历分享——guochengtao](http://www.360doc.com/content/17/1101/14/27525068_700005388.shtml)
-- @[Dracula](http://dracula.tech/)的[保研经验分享](http://dracula.tech/?p=269)
-
+ - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
+ - @[Quentin Lee](https://www.zhihu.com/people/li-qing-quan-65/activities)的[我的计算机保研流水账（2020届）](https://zhuanlan.zhihu.com/p/78585742)
+ 
 ## 2018年夏令营总结贴
 
  - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
@@ -26,11 +16,21 @@
  - @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/) 
  - @[lhw](https://www.zhihu.com/people/lhw-55/posts)的[211物联网工程保研中国科学技术大学cs自然语言处理方向](https://zhuanlan.zhihu.com/p/60553247)
  - @[菜得抠脚](https://github.com/taogelose)的[某菜在北航、中科院、南开的计算机视觉(CV)方向保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
+ 
+## 2017年夏令营总结贴
 
-## 2019夏令营总结贴
+- @[奋斗的小鸟lcy](https://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](https://www.jianshu.com/p/9fe83bc6f679)
+- @[西电王小熊](https://www.jianshu.com/u/94429f1c4f53)的[[读研]王小熊的推免面试经历](https://www.jianshu.com/p/d265069f2417)
+- @[WonderSeven](http://my.csdn.net/Touch_Thesky)的[个人保研经历以及经验分享](http://blog.csdn.net/touch_thesky/article/details/78126878)
+- @[sunrise的博客](http://blog.csdn.net/qq_25201379)的[保研经历-从信工所-国防科大-上交-最后确定复旦（信息安全专业）](http://blog.csdn.net/qq_25201379/article/details/78178697)
+- [本科四非保研到了北大信科学硕](https://www.zhihu.com/question/34582860/answer/245950683)
+- [所有结局在努力面前都不成敬意](http://www.360doc.com/content/17/1007/20/27477386_693026687.shtml)
+- @[gtcer](http://www.360doc.com/userhome/27525068)的[2018届研究生招生暑期夏令营经历分享——guochengtao](http://www.360doc.com/content/17/1101/14/27525068_700005388.shtml)
+- @[Dracula](http://dracula.tech/)的[保研经验分享](http://dracula.tech/?p=269)
 
- - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
- - @[Quentin Lee](https://www.zhihu.com/people/li-qing-quan-65/activities)的[我的计算机保研流水账（2020届）](https://zhuanlan.zhihu.com/p/78585742)
+## 2016年夏令营总结贴
+
+ - [南清北复交北航哈工大中科院华科保研记](https://www.jianshu.com/p/7640174a1556)
 
 ## 学校相关
 
