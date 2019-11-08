@@ -4,8 +4,7 @@
 
  - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
  - @[Quentin Lee](https://www.zhihu.com/people/li-qing-quan-65/activities)的[我的计算机保研流水账（2020届）](https://zhuanlan.zhihu.com/p/78585742)
- - Y.Shu 撰写的[入门指引：大三上学期，我该如何准备保研？](https://zhuanlan.zhihu.com/p/85367155)
- - Y.Shu 撰写的[计算机保研，我该如何选择导师？](https://zhuanlan.zhihu.com/p/87608874)
+ - @[Y.Shu](https://www.zhihu.com/people/dai-tu-zhe/activities)的[2019计算机保研经历：清华计算机·清华软院·清华深研院·南大计算机·浙大计算机等](https://zhuanlan.zhihu.com/p/88537420)
  - @[Johnson](https://blog.csdn.net/m0_38055352)的[【2019保研经验】清华贵系、清华软院、北大叉院、中科院自动化所等](https://blog.csdn.net/m0_38055352/article/details/102887818)
  
 ## 2018年夏令营总结贴
