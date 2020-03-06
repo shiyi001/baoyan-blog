@@ -6,7 +6,8 @@
  - @[Quentin Lee](https://www.zhihu.com/people/li-qing-quan-65/activities)的[我的计算机保研流水账（2020届）](https://zhuanlan.zhihu.com/p/78585742)
  - @[Y.Shu](https://www.zhihu.com/people/dai-tu-zhe/activities)的[2019计算机保研经历：清华计算机·清华软院·清华深研院·南大计算机·浙大计算机等](https://zhuanlan.zhihu.com/p/88537420)
  - @[Johnson](https://blog.csdn.net/m0_38055352)的[【2019保研经验】清华贵系、清华软院、北大叉院、中科院自动化所等](https://blog.csdn.net/m0_38055352/article/details/102887818)
- 
+ - @[宫·商](https://blog.csdn.net/qq_38633884)的[2019上交、上科、北航、中科大、自动化所计算机夏令营+浙大计算机预推免简记](https://blog.csdn.net/qq_38633884/article/details/97178586)
+   
 ## 2018年夏令营总结贴
 
  - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
